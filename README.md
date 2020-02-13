@@ -1,1 +1,1 @@
-# ExerciciosProlog
+# Simple Prolog exercises
